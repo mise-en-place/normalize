@@ -1,0 +1,22 @@
+{
+  "name": "mep-normalize",
+  "version": "1.0.0",
+  "description": "Normalize styling",
+  "main": "stylesheets/_normalize.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "normalize",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/normalize.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
