@@ -5,11 +5,11 @@
 // A global reset for all standard markup elements.
 //
 
-@import "tool-palette";
-@import "tool-font-scale";
-@import "tool-rem-calc";
-@import "tool-global-config";
-@import "tool-type-config";
+@import "~mep-tools.palette";
+@import "~mep-tools.font-scale";
+@import "~mep-tools.rem-calc";
+@import "~mep-tools.global-config";
+@import "~mep-tools.type-config";
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
